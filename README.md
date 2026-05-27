@@ -40,7 +40,7 @@ I work with leading models including **ChatGPT**, **Claude**, **Grok**, **Gemini
 - Multimodal (DALL-E, GPT-4o vision)
 
 ### Other Skills
-- Prompt evaluation & metrics
+- Prompt optimization, evaluation & metrics
 - Documentation & knowledge management
 - Basic Python for prompt automation
 - User-centered AI design
