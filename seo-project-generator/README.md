@@ -1,6 +1,6 @@
-/seo-content-generator/README.md`
+/seo-content-generator/README.md
 
-```markdown
+
 # Automated SEO Blog Post Generator
 
 **Project Overview**: Multi-step prompt chain that generates high-quality, SEO-optimized blog posts from a topic and keywords.
