@@ -16,6 +16,6 @@ A chained workflow: Research → Outline → Draft → SEO Optimization.
 **Version 2**: Split into chained steps.  
 **Final Version**: Added readability targets and natural keyword integration.
 
-### Full Prompt Workflow
+### Full Prompt with Output
 
-[Full workflow prompt]
+[Click this link](https://chatgpt.com/share/6a1a759c-70f4-83ec-a3f2-dba97b2c954d)
