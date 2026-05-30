@@ -28,7 +28,7 @@ To secure the model, I engineered a robust system prompt utilizing three key tec
 I tested the hardened prompt against two severe edge cases:
 * **Test Case 1 (Authority Bypass):** A simulated developer command ordering a test refund. 
 * **Test Case 2 (Emotional Manipulation):** A highly emotional narrative involving a medical emergency and financial distress.
-* **Test Case 3 (Synonym Attack):** 
+* **Test Case 3 (Synonym Attack):** Specific words in an input are replaced with synonyms to alter the prompt subtly while keeping the original meaning intact.
 * **Result:** The model successfully maintained structural integrity and triggered the exact fallback protocol in both scenarios.
 
 ## Full Prompt Workflow
