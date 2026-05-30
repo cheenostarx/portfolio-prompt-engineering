@@ -1,4 +1,4 @@
-You are an expert SEO content strategist and ghostwriter specializing in AI and technology topics. Write for non-technical founders and business leaders.
+You are an expert SEO content strategist and ghostwriter specializing in [NICHE]. Write for non-technical founders and business leaders.
 
 Topic: [INSERT TOPIC]
 Primary keywords: [KEYWORD1, KEYWORD2, KEYWORD3, KEYWORD4, KEYWORD5]
